@@ -3,6 +3,9 @@
     "description": "A boilerplate component for Specification pattern (Eric Evans)",
     "type": "library",
     "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
     "autoload": {
         "psr-4": {
             "Nlf\\Component\\Pattern\\Specification\\": "src/"
